@@ -26,6 +26,10 @@ The project adopts a two-stage training strategy:
 - **Pretraining**: LLaVA-CC3M-Pretrain-595K (includes 595K images with corresponding dialogues)
 - **Fine-Tuning**: Geo170K (focused on geometry-related image-question pairs)
 
+## Model Download
+- [https://huggingface.co/lation/GeoVLM/tree/main/pretrain]
+- [https://huggingface.co/lation/GeoVLM/tree/main/geo_sft]
+
 ## Model Features
 - **Multimodal Understanding**: Capable of handling both image and text inputs simultaneously
 - **Geometry Expert**: Fine-tuned for enhanced performance in solving geometry problems
@@ -85,9 +89,6 @@ The project implements efficient data processing mechanisms:
 - `dataset/`: Contains the required image and QA data
 - `save/`: Stores model checkpoints
 
-## Model Download
-- [https://huggingface.co/lation/GeoVLM/tree/main/pretrain]
-- [https://huggingface.co/lation/GeoVLM/tree/main/geo_sft]
 
 ## License
 MIT License
