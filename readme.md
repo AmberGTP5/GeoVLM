@@ -85,6 +85,9 @@ The project implements efficient data processing mechanisms:
 - `dataset/`: Contains the required image and QA data
 - `save/`: Stores model checkpoints
 
+## Model Download
+- [https://huggingface.co/lation/GeoVLM/tree/main/pretrain]
+- [https://huggingface.co/lation/GeoVLM/tree/main/geo_sft]
 
 ## License
 MIT License
