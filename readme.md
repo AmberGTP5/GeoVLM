@@ -93,3 +93,6 @@ The project implements efficient data processing mechanisms:
 ## License
 MIT License
 
+## Acknowledgments 
+Thanks to the [llm_related](https://github.com/wyf3/llm_related/tree/main) project for providing guidance and inspiration. 
+We extend our gratitude to the **Qwen** team for providing the base model.
